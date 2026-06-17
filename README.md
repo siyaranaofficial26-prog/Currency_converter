@@ -1,3 +1,4 @@
+
 ## Currency Converter
 
 A simple and clean currency converter that gives you real-time exchange rates
@@ -16,7 +17,8 @@ right in your browser using HTML, CSS, and JavaScript.
 - [fxAPI](https://fxapi.app/api/USD/INR.json) — for real-time exchange rates, you can 'from' country and 'to' country using the currency codes of these countries
 - [FlagsAPI](https://flagsapi.com/IN/flat/64.png) — for country flag icons based on country codes
 
-
+## Preview
+<img width="1797" height="957" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/a1f2ac58-9986-4714-be8e-fc81bff9e66c" />
 
 ##  Live Demo
 
